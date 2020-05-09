@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/devnull/public_html/
+    - export DEPLOYPATH=/home/devnull/public_html/devnull000.ga/webservice/
     - /bin/cp -R images $DEPLOYPATH
