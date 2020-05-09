@@ -1,5 +1,4 @@
 <?php
-
     // Funcion para visualizar los usuarios
     function getUsers()
     {
